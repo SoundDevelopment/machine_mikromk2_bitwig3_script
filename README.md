@@ -1,13 +1,5 @@
 # Bitwig remote script for Machine Mikro Mk2.
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html dir="ltr" lang="en"><head>
-
-<meta content="text/html; charset=ISO-8859-1" http-equiv="content-type"><title>Sound Development | Maschine Mikro Mk2</title>
-  <meta content="Marcel Huibers" name="author">
-  <meta content="A controller script for Maschine Mikro Mk2 to use in Bitwig." name="description"></head><body style="color: white; background-color: rgb(102, 102, 102);" alink="white" link="white" vlink="#cccccc"><br style="font-family: Calibri;">
-<div style="text-align: center;"><big style="font-weight: bold;"><big><big><span style="font-family: Calibri;">Sound Development | Maschine Mikro Mk2 Controller for Bitwig</span></big></big></big><br>
-</div>
 <div style="text-align: center; font-style: italic;"><small><font style="font-family: Calibri;" size="+1"><small><span class="">a simple bi-directional controller script for Bitwig</span></small></font><br>
 </small></div>
 <br>

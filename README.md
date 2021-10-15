@@ -1,5 +1,4 @@
-# machine_mikromk2_bitwig3_script
-A script for using Native Instrument's Maschine Mikro Mk. 2 with Bitwig (3).
+# Bitwig remote script for Machine Mikro Mk2.
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html dir="ltr" lang="en"><head>

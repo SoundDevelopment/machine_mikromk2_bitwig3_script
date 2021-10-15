@@ -1,10 +1,10 @@
-# Bitwig remote script for Machine Mikro Mk2.
+# Bitwig remote script for Maschine Mikro Mk2.
 
 <div style="text-align: center; font-style: italic;"><small><font style="font-family: Calibri;" size="+1"><small><span class="">a simple bi-directional controller script for Bitwig</span></small></font><br>
 </small></div>
 <br>
 
-<div style="text-align: left; font-family: Calibri;"><big><img style="width: 643px; height: 378px;" alt="Maschine Layout" src="SD%20Maschine%20Mikro%20MK2.gif" align="right" hspace="10"><font size="+1"><big>What is it?</big></font></big><br>
+<div style="text-align: left; font-family: Calibri;"><big><img style="width: 643px; height: 378px;" alt="Maschine Layout" src="https://www.sounddevelopment.nl/sd/resources/images/sd_maschine_mikro_mk2.gif" align="right" hspace="10"><font size="+1"><big>What is it?</big></font></big><br>
 <font size="+1"><br>
 This script can be used to help you get around Bitwig (also in version
 3.0 and up) and give you feedback of what&#8217;s playing on your current

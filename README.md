@@ -1,7 +1,5 @@
 # Bitwig remote script for Maschine Mikro Mk2.
 
-<div style="text-align: center; font-style: italic;"><small><font style="font-family: Calibri;" size="+1"><small><span class="">a simple bi-directional controller script for Bitwig</span></small></font><br>
-</small></div>
 <br>
 
 <div style="text-align: left; font-family: Calibri;"><big><img style="width: 643px; height: 378px;" alt="Maschine Layout" src="https://www.sounddevelopment.nl/sd/resources/images/sd_maschine_mikro_mk2.gif" align="right" hspace="10"><font size="+1"><big>What is it?</big></font></big><br>
